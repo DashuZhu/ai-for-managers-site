@@ -1,0 +1,20 @@
+{
+  "rows_raw": 12,
+  "unique_ids": 11,
+  "excluded": [
+    {
+      "line": 13,
+      "id": "T007",
+      "reason": "точный дубль; сохранена первая строка"
+    }
+  ],
+  "missing_hours": [
+    "T008"
+  ],
+  "known_hours_unique": "24",
+  "naive_raw_sum": "29",
+  "closed_hours": "13",
+  "open_known_hours": "11",
+  "npv_12_percent": "151387.93",
+  "irr": "0.19300974"
+}
